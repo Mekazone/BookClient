@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\bin\Debug\netstandard2.0\BookClient.deps.json
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\bin\Debug\netstandard2.0\BookClient.dll
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\bin\Debug\netstandard2.0\BookClient.pdb
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.AssemblyInfo.cs
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.dll
+C:\Users\admin\source\repos\Xamarin_Projects\BookClient\BookClient\BookClient\obj\Debug\netstandard2.0\BookClient.pdb

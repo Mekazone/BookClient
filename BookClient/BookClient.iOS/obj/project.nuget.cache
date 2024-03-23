@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XB95rqXK1P6rPZnF5kynGOQg6/DYlAbqtnkSqnCu8au81RiXFJEyNsvUn047xF5LUizPBDy4oyXMH4TsBqsjbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Xamarin_Projects\\BookClient\\BookClient\\BookClient.iOS\\BookClient.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\xamarin.forms\\5.0.0.1931\\xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}
